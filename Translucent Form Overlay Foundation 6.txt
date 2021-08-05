@@ -1,0 +1,355 @@
+  *
+    Foundation
+
+  * Home <https://get.foundation/building-blocks/index.html>
+
+------------------------------------------------------------------------
+
+  * Foundation Showcase <https://zurb.com/responsive>
+  * Brands <https://get.foundation/building-blocks/showcase/brands.html>
+  * Case Studies
+    <https://get.foundation/building-blocks/showcase/case-studies.html>
+  * Blog <https://get.foundation/building-blocks/showcase/blog.html>
+  * Buzz <https://get.foundation/building-blocks/showcase/buzz.html>
+  * About Foundation
+    <https://get.foundation/building-blocks/showcase/about.html>
+
+------------------------------------------------------------------------
+
+  *
+    Foundation for Sites
+
+  * Home <https://get.foundation/building-blocks/sites.html>
+  * Getting Started
+    <https://get.foundation/building-blocks/sites/getting-started.html>
+  * Download <https://get.foundation/building-blocks/sites/download.html>
+  * HTML Templates <https://get.foundation/building-blocks/templates.html>
+  * Building Blocks
+    <https://get.foundation/building-blocks/sites/building-blocks.html>
+  * Resources <https://get.foundation/building-blocks/sites/resources.html>
+  * Docs <https://get.foundation/sites/docs/>
+
+------------------------------------------------------------------------
+
+  *
+    Foundation for Emails
+
+  * Home <https://get.foundation/building-blocks/emails.html>
+  * Getting Started
+    <https://get.foundation/building-blocks/emails/getting-started.html>
+  * Download <https://get.foundation/building-blocks/emails/download.html>
+  * Inliner <https://get.foundation/building-blocks/emails/inliner-v2.html>
+  * Email Templates
+    <https://get.foundation/building-blocks/emails/email-templates.html>
+  * Resources <https://get.foundation/building-blocks/emails/resources.html>
+  * Docs <https://get.foundation/building-blocks/emails/docs>
+
+------------------------------------------------------------------------
+
+  *
+    Develop
+
+  * HTML Templates <https://get.foundation/building-blocks/templates.html>
+  * Resources <https://get.foundation/building-blocks/sites/resources.html>
+  * Building Blocks
+    <https://get.foundation/building-blocks/develop/building-blocks.html>
+  * Contribute
+    <https://get.foundation/building-blocks/develop/contribute.html>
+
+------------------------------------------------------------------------
+
+  *
+    Tutorials
+
+  * Tutorials <https://get.foundation/building-blocks/learn/tutorials.html>
+  * Lessons <https://zurb.com/university/lessons>
+  * Courses <https://courses.zurb.com/>
+  * Custom Training <https://zurb.com/university/training>
+
+------------------------------------------------------------------------
+
+  *
+    Get Involved
+
+  * Connect
+    <https://get.foundation/building-blocks/get-involved/support.html>
+  * Foundation Forum <https://foundation.discourse.group/>
+  * FAQs <https://get.foundation/building-blocks/get-involved/faq.html>
+  * Contribute
+    <https://get.foundation/building-blocks/get-involved/contribute.html>
+  * Yetinauts
+    <https://get.foundation/building-blocks/get-involved/yetinauts.html>
+  * Partners
+    <https://get.foundation/building-blocks/get-involved/partners.html>
+  * Sponsorships
+    <https://get.foundation/building-blocks//email-sponsorships.html>
+
+------------------------------------------------------------------------
+
+  *
+    More ZURB Goodness
+
+  * Manifesto <https://zurb.com/manifesto>
+  * Our Work <https://zurb.com/services/our-work>
+  * Product Design Courses <https://courses.zurb.com/>
+
+------------------------------------------------------------------------
+
+  * zurb <https://zurb.com/>
+  * About <https://zurb.com/about>
+  * Blog <https://zurb.com/blog>
+  * Contact <https://zurb.com/contact>
+
+Menu icon
+ZURB *Foundation* <https://get.foundation/index.html>
+ZURB *Foundation* <https://get.foundation/index.html>
+
+  * Showcase <https://zurb.com/responsive>
+      o Foundation Showcase <https://zurb.com/responsive>
+      o Brands <https://get.foundation/showcase/brands.html>
+      o Case Studies <https://get.foundation/showcase/case-studies.html>
+      o Blog <https://get.foundation/showcase/blog.html>
+      o Buzz <https://get.foundation/showcase/buzz.html>
+      o About Foundation <https://get.foundation/showcase/about.html>
+  * Develop <https://get.foundation/develop/getting-started.html>
+      o Frameworks
+      o Foundation for Sites <https://get.foundation/sites.html>
+      o Foundation for Email <https://get.foundation/emails.html>
+      o
+      o Develop
+      o HTML Templates <https://get.foundation/templates.html>
+      o Resources <https://get.foundation/sites/resources.html>
+      o Building Blocks
+        <https://get.foundation/develop/building-blocks.html>
+  * Tutorials <https://get.foundation/learn/tutorials.html>
+      o Tutorials <https://get.foundation/learn/tutorials.html>
+      o Lessons <https://zurb.com/university/lessons>
+      o Courses <https://courses.zurb.com/>
+      o Custom Training <https://zurb.com/university/training>
+  * Get Involved <https://get.foundation/get-involved/support.html>
+      o Connect <https://get.foundation/get-involved/support.html>
+      o Foundation Forum <https://foundation.discourse.group/>
+      o FAQs <https://get.foundation/get-involved/faq.html>
+      o Contribute <https://get.foundation/get-involved/contribute.html>
+      o Yetinauts <https://get.foundation/get-involved/yetinauts.html>
+      o Partners <https://get.foundation/get-involved/partners.html>
+      o Sponsorships <https://get.foundation/email-sponsorships.html>
+  * Docs <https://get.foundation/frameworks-docs.html>
+      o Sites Docs <https://get.foundation/sites/docs/>
+      o Emails Docs <https://get.foundation/emails/docs>
+  * Getting Started <https://get.foundation/develop/getting-started.html>
+
+  * Home <https://get.foundation/building-blocks/>
+  * forms <https://get.foundation/building-blocks/forms.html>
+  * Translucent Form Overlay
+
+
+  Translucent Form Overlay
+
+
+      By Kevin <https://foundation.discourse.group/17824>
+
+F6
+#
+*Foundation 6*
+
+6.3.0, 6.3.1
+
+Line Created with Sketch.
+
+translucent <https://get.foundation/building-blocks/?q=translucent> hero
+<https://get.foundation/building-blocks/?q=hero> form
+<https://get.foundation/building-blocks/?q=form> search
+<https://get.foundation/building-blocks/?q=search>
+Share Created with Sketch.
+//
+<https://twitter.com/share?url=https%3A%2F%2Fget.foundation%2Fbuilding-blocks%2Fblocks%2Ftranslucent-form-overlay.html&text=Download%20this%20Translucent%20Form%20Overlay%20from%20Foundation%20Building%20Blocks&via=ZURBFoundation>
+//
+<https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fget.foundation%2Fbuilding-blocks%2Fblocks%2Ftranslucent-form-overlay.html>
+//
+<https://pinterest.com/pin/create/bookmarklet/?media=https%3A%2F%2Fget.foundation%2Fbuilding-blocks%2Fassets%2Fimg%2Fbuilding-block%2Ftranslucent-form-overlay%2Ftranslucent-form-overlay.png&url=https%3A%2F%2Fget.foundation%2Fbuilding-blocks%2Fblocks%2Ftranslucent-form-overlay.html&description=Translucent%20Form%20Overlay%20from%20Foundation%20Building%20Blocks>
+Download
+
+Install with Foundation CLI
+
+<https://get.foundation/building-blocks/how-to.html#use>
+Download Zip
+<https://get.foundation/building-blocks/files/building-blocks/translucent-form-overlay.zip>
+
+How do I use This? <https://get.foundation/building-blocks/how-to.html#use>
+
+A translucent form overlay for placing on top of a hero image or section.
+
+  * HTML <#>
+  * SCSS <#>
+  * JS <#>
+
+HTML
+Copy
+
+|<div class="translucent-form-overlay">
+  <form>
+    <h3>Search for Properties</h3>
+    <div class="row columns">
+      <label>Keyword
+        <input type="text" name="keyword" placeholder="Any">
+      </label>
+    </div>
+    <div class="row columns">
+      <label>Property Status
+        <select name="status" type="text">
+          <option>Any</option>
+          <option value="rent">Rent</option>
+          <option value="buy">Buy</option>
+        </select>
+      </label>
+    </div>
+    <div class="row columns">
+      <label>Property Type
+        <select name="status" type="text">
+          <option>Any</option>
+          <option value="office">Office</option>
+          <option value="building">Building</option>
+        </select>
+      </label>
+    </div>
+    <div class="row columns">
+      <label>Location
+        <input type="text" name="location" placeholder="Any">
+      </label>
+    </div>
+    <div class="row">
+      <label class="columns small-12">Price</label>
+      <div class="columns small-6">
+        <input type="number" min="0" name="min" placeholder="Min">
+      </div>
+      <div class="columns small-6">
+        <input type="number" min="0" name="max" placeholder="Max">
+      </div>
+    </div>
+    <button type="button" class="primary button expanded search-button">
+      Search
+    </button>
+ </form>
+</div>
+
+
+|
+
+SCSS CSS
+Copy
+
+|$translucent-form-overlay-max-width: 500px;
+
+.translucent-form-overlay {
+  max-width: $translucent-form-overlay-max-width;
+  width: 100%;
+  background-color: rgba(54, 54, 54, 0.8);
+  padding: 20px;
+  color: $white;
+
+  // workaround 6.3.0 bug
+  .columns.row {
+    display: block;
+  }
+
+  h3, label {
+    color: $white;
+  }
+  input, select {
+    color: $dark-gray;
+  }
+  input::placeholder {
+    color: $dark-gray;
+  }
+}
+
+|
+
+|
+.translucent-form-overlay {
+  max-width: 500px;
+  width: 100%;
+  background-color: rgba(54, 54, 54, 0.8);
+  padding: 20px;
+  color: #fefefe;
+}
+
+.translucent-form-overlay .columns.row {
+  display: block;
+}
+
+.translucent-form-overlay h3, .translucent-form-overlay label {
+  color: #fefefe;
+}
+
+.translucent-form-overlay input, .translucent-form-overlay select {
+  color: #8a8a8a;
+}
+
+.translucent-form-overlay input::-webkit-input-placeholder {
+  color: #8a8a8a;
+}
+
+.translucent-form-overlay input:-ms-input-placeholder {
+  color: #8a8a8a;
+}
+
+.translucent-form-overlay input::placeholder {
+  color: #8a8a8a;
+}
+
+|
+
+JS
+Copy
+
+|
+|
+
+
+    Similar Building Blocks
+
+forms
+
+
+      Expandable Searchbar
+
+F6
+by Christine Siu
+Page 1 Created with Sketch.
+<https://get.foundation/building-blocks/blocks/searchbar-expand-on-click.html>
+
+forms
+
+
+      Input Number Incrementer
+
+F6
+by Rafi
+Page 1 Created with Sketch.
+<https://get.foundation/building-blocks/blocks/input-number-group.html>
+forms
+
+
+      Search and Filter Hero Section
+
+F6
+by Rafi
+Page 1 Created with Sketch.
+<https://get.foundation/building-blocks/blocks/hero-search-filter.html>
+
+© 1998–2019 ZURB, Inc.
+
+  * Showcase <https://zurb.com/responsive>
+  * Training <https://courses.zurb.com/>
+  * Building Blocks <https://get.foundation/develop/getting-started.html>
+  * Get Involved <https://get.foundation/get-involved/support.html>
+  * Docs <https://get.foundation/sites/docs/>
+
+  * Get Involved with Zurb Foundation
+    <https://get.foundation/get-involved/support.html>
+  * ZURB Foundation Facebook <https://www.facebook.com/ZURB/>
+  * ZURB Foundation Twitter <https://twitter.com/ZURBfoundation>
+  * ZURB Foundation Youtube <https://www.youtube.com/user/zurb>
+
